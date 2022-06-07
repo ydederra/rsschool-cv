@@ -39,6 +39,3 @@ Manual Software Testing Anderesen Jan 2019- Feb 2019
 ### Languages
 Russian Native
 English B2
-
-
-
