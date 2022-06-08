@@ -34,6 +34,7 @@ function multiply(a, b){
 
 ### Education
 Gomel State Medical University 2008-2013
+
 Manual Software Testing Anderesen Jan 2019- Feb 2019
 
 ### Languages
